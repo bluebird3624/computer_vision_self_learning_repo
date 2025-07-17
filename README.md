@@ -92,7 +92,7 @@ This dataset will be used in practical exercises like:
     
     CopyEdit
     
-    `git clone https://github.com/yourusername/vision-learning-repo.git cd vision-learning-repo`
+    `git clone <repo link> cd computer_vision_self_learning_repo`
     
 2. Open the notebooks:
     
